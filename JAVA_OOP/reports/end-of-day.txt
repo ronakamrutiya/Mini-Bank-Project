@@ -1,0 +1,4 @@
+MiniBank end-of-day report
+Total deposits: ₹3500
+Total withdrawals: ₹500
+transactions.log size=371 modified=2026-11-01T10:15:05.7126451Z
